@@ -1,0 +1,22 @@
+.dish-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.dish-details {
+    padding: 16px;
+}
+
+.dish-name {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+.dish-ingredients {
+    color: #555;
+    font-size: 0.9rem;
+}

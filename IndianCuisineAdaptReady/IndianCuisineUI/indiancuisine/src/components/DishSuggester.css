@@ -1,0 +1,18 @@
+.matching-dishes ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .matching-dishes {
+    margin-top: 20px;
+  }
+  
+  .matching-dishes h2 {
+    color: #333;
+  }
+  
+ 
+  
+  .matching-dishes li {
+    margin-bottom: 5px;
+  }
+  
